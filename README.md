@@ -1,6 +1,6 @@
 # Dunkin' Store Dashboard
 
-**Live demo:** https://abhyaung.github.io/dunkin-dashboard/
+**Live demo:** https://AJJadhav29.github.io/dunkin-dashboard/
 
 A React + Vite dashboard with a **separate view for each of three Dunkin' stores**.
 For every store it shows:
