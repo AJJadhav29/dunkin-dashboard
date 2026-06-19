@@ -1,5 +1,7 @@
 # Dunkin' Store Dashboard
 
+**Live demo:** https://abhyaung.github.io/dunkin-dashboard/
+
 A React + Vite dashboard with a **separate view for each of three Dunkin' stores**.
 For every store it shows:
 
@@ -9,6 +11,8 @@ For every store it shows:
 - **Item performance** — revenue vs profit for every product
 - **🔥 Trending** — products selling more month-over-month (order more)
 - **🐌 Underperforming** — products with falling demand (cut the order)
+
+![Dunkin' Store Dashboard screenshot](docs/screenshot.png)
 
 ## Run it
 
