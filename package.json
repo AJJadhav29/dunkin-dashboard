@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://abhyaung.github.io/dunkin-dashboard",
+  "homepage": "https://AJJadhav29.github.io/dunkin-dashboard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
